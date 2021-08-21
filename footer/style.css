@@ -126,20 +126,8 @@ a.socials-item {
     color: #4e64b5;
 }
 
-.twitter {
-    color: #00aced;
-}
 .instagram {
     color: #9a8f62;
-}
-.youtube {
-    color: #c82929;
-}
-
-.telegram {
-    color: #2ca5e0;
-}
-
 
 a.socials-item:hover {
     box-shadow: 0 0px 20px rgba(84, 1, 74, 0.7);
